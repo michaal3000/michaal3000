@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michal.
 - 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning JavaScript and CSS.
+- 🌱 I’m currently learning CSS, JavaScript and REACT.
 
 
 <!---
